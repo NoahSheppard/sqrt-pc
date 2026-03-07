@@ -1,0 +1,82 @@
+** Drc report for sqrt(pc).kicad_pcb **
+** Created on 2026-03-07T17:01:27+1100 **
+
+** Found 15 DRC violations **
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(72.8500 mm, 49.8000 mm): NPTH pad of U1
+    @(56.9510 mm, 51.1510 mm): Track [3V3] on F.Cu, length 34.5855 mm
+[items_not_allowed]: Items not allowed (keepout area)
+    Rule: keepout area; error (excluded)
+    @(38.0125 mm, 53.2400 mm): PTH pad SH1 [<no net>] of DS1
+    punch hole for the screen which is wired differently
+[items_not_allowed]: Items not allowed (keepout area)
+    Rule: keepout area; error (excluded)
+    @(38.0125 mm, 22.7600 mm): PTH pad SH2 [<no net>] of DS1
+    punch hole for the screen which is wired differently
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(65.0400 mm, 23.4200 mm): Footprint S2
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(86.8100 mm, 39.5000 mm): Footprint D7
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(66.3100 mm, 37.0000 mm): Footprint D2
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(65.0400 mm, 42.4200 mm): Footprint S6
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(85.6200 mm, 42.4200 mm): Footprint S7
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(85.5400 mm, 23.4200 mm): Footprint S3
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(45.8100 mm, 37.0000 mm): Footprint D1
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(45.8100 mm, 39.5000 mm): Footprint D5
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(44.5400 mm, 23.4200 mm): Footprint S1
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(86.8100 mm, 37.0000 mm): Footprint D3
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(44.6200 mm, 42.4200 mm): Footprint S5
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; error (excluded)
+    @(65.0000 mm, 38.0000 mm): Footprint DS1
+    @(66.3100 mm, 39.5000 mm): Footprint D6
+    whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
