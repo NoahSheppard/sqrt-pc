@@ -1,0 +1,19 @@
+Reference,Qty,Value,Footprint,Price ($AUD unless marked),Purchase-URL,Label,Notes
+C46,1,100nF,C315C104K5R5TA:CAPRR254W54L381T254H466B, $0.70 ,https://au.mouser.com/ProductDetail/KEMET/C315C104K5R5TA?qs=AHmto%252BvZ7OG2Mx7li%2Fn8YQ%3D%3D,Power Circuit - 100nF Capacitor,
+"D1,D2,D3,D5,D6,D7",6,~,ScottoKeebs_Components:Diode_DO-35, $-   ,N/A,Diodes for the Keyswitch array,
+D4,1,LED_ARBG,LED_SMD:LED_Kingbright_AAA3528ESGCT, $0.74 ,https://au.mouser.com/ProductDetail/Kingbright/AAA3528ESGCT?qs=HXFqYaX1Q2ztii0bK20PQg%3D%3D,LED for battery status,
+"D9,D10,D11,D12,D13,D14",6,LED_SK6812MINI,ScottoKeebs_Components:LED_SK6812MINI, $-   ,N/A,RGB LEDs,
+DS1,1,4311,4311:MODULE_4311, $9.37 ,https://www.aliexpress.com/item/1005009447193931.html,Screen,
+J1,1,Conn_01x02,Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal, $3.76 ,https://www.aliexpress.com/item/32807183020.html,Battery Connector,Can only get 50 min
+Q1,1,AO3401A,Package_TO_SOT_SMD:SOT-23W_Handsoldering, $0.97 ,https://www.aliexpress.com/item/1005008934110148.html,Power Circuit - P-Channel MOSFET - Power Latch,Can only get 10 min
+R2,1,FMP100JR-52-2K2,KiCADv6:FMP100JR_52_2K2, $0.19 ,https://au.mouser.com/ProductDetail/YAGEO/FMP100JR-52-2K2?qs=wcZjbqjoJegNfVYDP1qQwg%3D%3D,Power Circuit - 2.2kOhm Resistor,
+"R3,R4",2,MFR-25FBF52-1K,MFR-25FBF52-1K:RESAD1100W55L680D260, $0.31 ,https://au.mouser.com/ProductDetail/YAGEO/MFR-25FTF52-1K47?qs=gt1LBUVyoHl4e3xmkemLyA%3D%3D,Power Circuit - 1.47 kOhms Resistor,
+"R5,R6",2,RNC55H1002FMRE7,RNC55H1002FMRE7:RESAD1081W64L635D269, $0.85 ,https://www.jaycar.com.au/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596?srsltid=AfmBOooZybZRjXbsL3loWYFdbOO8xv4_Spoyh16NfgIc8Q6pRosaol9-,Power Circuit - 10kOhm Resistor,Can only get in a 8 pack for this cheap 
+RN1,1,CAY16-1003F4LF,CAY16-1003F4LF:RESCAF80P320X160X60-8N, $0.15 ,https://au.mouser.com/ProductDetail/Bourns/CAY16-1003F4LF?qs=T7l%2FPuJnbcT4dvX5HXX74Q%3D%3D&srsltid=AfmBOoqqP7U5jdrc4c8albsdljesYeuMQMlg74Kuni7se9EsMJJ111ZA,Power Circuit - 4 100kOhm Resistors,
+"S1,S2,S3,S5,S6,S7",6,~,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB, $-   ,N/A,Keyswitches,I own these already
+S8,1,PTS526_SMG15_SMTR2_LFS,PTS526_SMG15_SMTR2_LFS:SW_PTS526_SMG15_SMTR2_LFS, $0.24 ,https://au.mouser.com/ProductDetail/CK/PTS526SMG15SMTR2-LFS?qs=Imq1NPwxi76tu1Vo5JUXUg%3D%3D,Power Button,
+U1,1,WEMOSC3mini,RF_Module:WEMOS_C3_mini, $8.94 ,https://www.aliexpress.com/item/1005004740051202.html,Microcontroller,Does not come with pin headers
+U2,1,TP4056-42-ESOP8,Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm, $1.44 ,https://www.lcsc.com/product-detail/C16581.html,Power Circuit - IC,"Price in AUD, purchased in USD - rough conversion rate"
+,2,,, $0.35 ,https://core-electronics.com.au/header-male-pin-01x20.html,Microcontroller Pin Headers,Not in KiCad
+,,,,,,,
+Total Price, $28.01 ,,,,,,

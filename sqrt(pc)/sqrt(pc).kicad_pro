@@ -54,119 +54,127 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "copper_edge_clearance|39795000|38455000|231696d6-6bd3-4ad1-ab75-a0e6e8244dba|6e1dd27e-f305-4190-b5a5-17b65d403283",
+          "copper_edge_clearance|31875000|25550000|69a01df8-defb-4b83-bc3e-4385d47ce975|8d2d18fc-4883-4de0-9974-16988b2304a6",
           ""
         ],
         [
-          "copper_edge_clearance|39795000|39955000|231696d6-6bd3-4ad1-ab75-a0e6e8244dba|c783f385-70e7-46a5-88aa-d3159b512546",
+          "copper_edge_clearance|39795000|38045000|988fd357-1a50-4d9f-bf05-e62a02c4af1a|724ebf1c-bb85-4f70-8b1d-3d71c865a35b",
           ""
         ],
         [
-          "copper_edge_clearance|40795000|19455000|bf216956-7c1c-4443-a925-7590de8fb65c|f39d4dc9-865d-4532-9d99-345d9999e7bb",
+          "copper_edge_clearance|39795000|39545000|988fd357-1a50-4d9f-bf05-e62a02c4af1a|2a79a390-cbde-4aa9-b42d-974af744803e",
           ""
         ],
         [
-          "copper_edge_clearance|40795000|20955000|bf216956-7c1c-4443-a925-7590de8fb65c|0a4fcc57-9ae6-44ab-9c34-c21c04110a6d",
+          "copper_edge_clearance|41295000|19045000|29266ebb-921a-429b-ab81-a5f98f9316ef|8663f2d7-2d48-45d5-9fb6-f4b88399c0dd",
           ""
         ],
         [
-          "copper_edge_clearance|44205000|38455000|988fd357-1a50-4d9f-bf05-e62a02c4af1a|724ebf1c-bb85-4f70-8b1d-3d71c865a35b",
+          "copper_edge_clearance|41295000|20545000|29266ebb-921a-429b-ab81-a5f98f9316ef|9d9f21ea-6d27-4a0a-b2fe-32a1ecf88082",
           ""
         ],
         [
-          "copper_edge_clearance|44205000|39955000|988fd357-1a50-4d9f-bf05-e62a02c4af1a|2a79a390-cbde-4aa9-b42d-974af744803e",
+          "copper_edge_clearance|44205000|38045000|231696d6-6bd3-4ad1-ab75-a0e6e8244dba|6e1dd27e-f305-4190-b5a5-17b65d403283",
           ""
         ],
         [
-          "copper_edge_clearance|45205000|19455000|29266ebb-921a-429b-ab81-a5f98f9316ef|8663f2d7-2d48-45d5-9fb6-f4b88399c0dd",
+          "copper_edge_clearance|44205000|39545000|231696d6-6bd3-4ad1-ab75-a0e6e8244dba|c783f385-70e7-46a5-88aa-d3159b512546",
           ""
         ],
         [
-          "copper_edge_clearance|45205000|20955000|29266ebb-921a-429b-ab81-a5f98f9316ef|9d9f21ea-6d27-4a0a-b2fe-32a1ecf88082",
+          "copper_edge_clearance|45705000|19045000|bf216956-7c1c-4443-a925-7590de8fb65c|f39d4dc9-865d-4532-9d99-345d9999e7bb",
           ""
         ],
         [
-          "copper_edge_clearance|60295000|19455000|ccc75ff0-6b21-4e31-92fa-19b5e3cdfa65|02c3bbbe-714c-4bb2-9e39-0062f2989af0",
+          "copper_edge_clearance|45705000|20545000|bf216956-7c1c-4443-a925-7590de8fb65c|0a4fcc57-9ae6-44ab-9c34-c21c04110a6d",
           ""
         ],
         [
-          "copper_edge_clearance|60295000|20955000|ccc75ff0-6b21-4e31-92fa-19b5e3cdfa65|412ade8d-7801-45ea-8489-a73546991d52",
+          "copper_edge_clearance|60295000|19045000|95265cb6-78c0-4486-a95d-b2e499ad28cb|b0450e4a-18bb-4f3e-895c-5dfa224af1fa",
           ""
         ],
         [
-          "copper_edge_clearance|60295000|38455000|87033910-8aad-4cdf-b8ae-840f2be48319|f6e3dc02-529c-4d18-8cc5-c33f982520eb",
+          "copper_edge_clearance|60295000|20545000|95265cb6-78c0-4486-a95d-b2e499ad28cb|b025b9ce-402c-4be6-a29d-3aecbece2778",
           ""
         ],
         [
-          "copper_edge_clearance|60295000|39955000|87033910-8aad-4cdf-b8ae-840f2be48319|425be369-9906-44ce-9de0-aeb4c4da73f7",
+          "copper_edge_clearance|60295000|38045000|cc0f6402-189c-45cc-8a72-ec60cfd2eba8|e5cb1820-e06b-4ea7-a40d-a873190e251d",
           ""
         ],
         [
-          "copper_edge_clearance|64705000|19455000|95265cb6-78c0-4486-a95d-b2e499ad28cb|b0450e4a-18bb-4f3e-895c-5dfa224af1fa",
+          "copper_edge_clearance|60295000|39545000|cc0f6402-189c-45cc-8a72-ec60cfd2eba8|3406c92c-9cbb-4601-9820-6f63a5f6fe3f",
           ""
         ],
         [
-          "copper_edge_clearance|64705000|20955000|95265cb6-78c0-4486-a95d-b2e499ad28cb|b025b9ce-402c-4be6-a29d-3aecbece2778",
+          "copper_edge_clearance|64705000|19045000|ccc75ff0-6b21-4e31-92fa-19b5e3cdfa65|02c3bbbe-714c-4bb2-9e39-0062f2989af0",
           ""
         ],
         [
-          "copper_edge_clearance|64705000|38455000|cc0f6402-189c-45cc-8a72-ec60cfd2eba8|e5cb1820-e06b-4ea7-a40d-a873190e251d",
+          "copper_edge_clearance|64705000|20545000|ccc75ff0-6b21-4e31-92fa-19b5e3cdfa65|412ade8d-7801-45ea-8489-a73546991d52",
           ""
         ],
         [
-          "copper_edge_clearance|64705000|39955000|cc0f6402-189c-45cc-8a72-ec60cfd2eba8|3406c92c-9cbb-4601-9820-6f63a5f6fe3f",
+          "copper_edge_clearance|64705000|38045000|87033910-8aad-4cdf-b8ae-840f2be48319|f6e3dc02-529c-4d18-8cc5-c33f982520eb",
           ""
         ],
         [
-          "copper_edge_clearance|80795000|19455000|28fbc0e5-8249-4ae3-af92-8758a503fd31|7c451e8f-b9f6-4594-a374-24c6a5732111",
+          "copper_edge_clearance|64705000|39545000|87033910-8aad-4cdf-b8ae-840f2be48319|425be369-9906-44ce-9de0-aeb4c4da73f7",
           ""
         ],
         [
-          "copper_edge_clearance|80795000|20955000|28fbc0e5-8249-4ae3-af92-8758a503fd31|809f5e09-69ea-427c-b346-66a3d4ba259d",
+          "copper_edge_clearance|80795000|19045000|6a66783f-359d-427d-a88a-523dba2c028c|efae847d-3329-459a-85a3-5b2181851a92",
           ""
         ],
         [
-          "copper_edge_clearance|80795000|38455000|0269f3e6-2d2f-426c-93f1-26ba37992687|202c845c-c311-4df5-b264-8467c8948a37",
+          "copper_edge_clearance|80795000|20545000|6a66783f-359d-427d-a88a-523dba2c028c|5b45806a-f1da-43bd-8541-86ae3a331a7d",
           ""
         ],
         [
-          "copper_edge_clearance|80795000|39955000|0269f3e6-2d2f-426c-93f1-26ba37992687|8010d75c-46d0-4c76-8b59-d5d5074c7765",
+          "copper_edge_clearance|80795000|38045000|16b56ff1-2738-44b6-8cc3-ab67a405a8eb|2082283c-6d09-494d-b570-231bca1c3a5c",
           ""
         ],
         [
-          "copper_edge_clearance|85205000|19455000|6a66783f-359d-427d-a88a-523dba2c028c|efae847d-3329-459a-85a3-5b2181851a92",
+          "copper_edge_clearance|80795000|39545000|16b56ff1-2738-44b6-8cc3-ab67a405a8eb|57095b01-772d-4432-b44a-855cc65cb197",
           ""
         ],
         [
-          "copper_edge_clearance|85205000|20955000|6a66783f-359d-427d-a88a-523dba2c028c|5b45806a-f1da-43bd-8541-86ae3a331a7d",
+          "copper_edge_clearance|85205000|19045000|28fbc0e5-8249-4ae3-af92-8758a503fd31|7c451e8f-b9f6-4594-a374-24c6a5732111",
           ""
         ],
         [
-          "copper_edge_clearance|85205000|38455000|16b56ff1-2738-44b6-8cc3-ab67a405a8eb|2082283c-6d09-494d-b570-231bca1c3a5c",
+          "copper_edge_clearance|85205000|20545000|28fbc0e5-8249-4ae3-af92-8758a503fd31|809f5e09-69ea-427c-b346-66a3d4ba259d",
           ""
         ],
         [
-          "copper_edge_clearance|85205000|39955000|16b56ff1-2738-44b6-8cc3-ab67a405a8eb|57095b01-772d-4432-b44a-855cc65cb197",
+          "copper_edge_clearance|85205000|38045000|0269f3e6-2d2f-426c-93f1-26ba37992687|202c845c-c311-4df5-b264-8467c8948a37",
           ""
         ],
         [
-          "courtyards_overlap|35227500|38145000|72d8614c-5bdc-40db-9333-ee601cbd6243|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
+          "copper_edge_clearance|85205000|39545000|0269f3e6-2d2f-426c-93f1-26ba37992687|8010d75c-46d0-4c76-8b59-d5d5074c7765",
           ""
         ],
         [
-          "courtyards_overlap|35485000|40905000|95760b6f-8565-4c83-ad19-4a923ce34545|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
-          "whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever"
+          "copper_edge_clearance|94000000|57500000|69a01df8-defb-4b83-bc3e-4385d47ce975|fcd98a0b-6542-4421-af4c-2217087bfe2e",
+          ""
+        ],
+        [
+          "courtyards_overlap|35227500|19555000|9e5a383a-8f36-443c-98dc-119a729ef2df|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
+          ""
+        ],
+        [
+          "courtyards_overlap|35325000|40905000|95760b6f-8565-4c83-ad19-4a923ce34545|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
+          ""
         ],
         [
           "courtyards_overlap|37145000|35255000|6a98e4e2-76df-4454-b8c0-2f827f713f9f|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
           ""
         ],
         [
-          "courtyards_overlap|38415346|21905000|8cfdad68-422a-452b-9f48-7540a2d512fc|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
-          "whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever"
+          "courtyards_overlap|39025798|21905000|8cfdad68-422a-452b-9f48-7540a2d512fc|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
+          ""
         ],
         [
-          "courtyards_overlap|53355000|35580000|9e5a383a-8f36-443c-98dc-119a729ef2df|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
+          "courtyards_overlap|49770000|19555000|1a1e7eb8-7a6b-490a-9d1e-339b4056902a|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
           ""
         ],
         [
@@ -175,10 +183,14 @@
         ],
         [
           "courtyards_overlap|55905000|40905000|6214b487-ef9c-4435-befd-11d7a955f15d|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
-          "whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever"
+          ""
         ],
         [
-          "courtyards_overlap|57645000|55755000|9178da67-cc40-45b1-ae5a-b5210e465a9b|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
+          "courtyards_overlap|56545000|44738880|2fe18e5c-7577-4f74-aec7-3ac6e5edd7f1|f9bbebc3-f18e-48dc-b995-41dc1cdd6beb",
+          ""
+        ],
+        [
+          "courtyards_overlap|66326000|34985000|2fe18e5c-7577-4f74-aec7-3ac6e5edd7f1|57744da9-1e60-4fc6-ac3b-829de30c3a76",
           ""
         ],
         [
@@ -190,14 +202,6 @@
           ""
         ],
         [
-          "courtyards_overlap|73955000|54255000|5dc9f858-1e75-4a13-a699-bca19740fa85|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
-          ""
-        ],
-        [
-          "courtyards_overlap|75843806|34137374|13cb20ae-f94b-4735-9fb4-afa0e578b919|2fe18e5c-7577-4f74-aec7-3ac6e5edd7f1",
-          ""
-        ],
-        [
           "courtyards_overlap|76405000|21905000|68de1bbd-7d1d-4a79-8c05-a08283112cff|aae39a05-d9f7-4abd-a2f2-a925f3d667e8",
           "whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever"
         ],
@@ -206,43 +210,19 @@
           "whining that switch is on top of part which normally isn't allowed, but as the screen will not be soldered to the board, should be fine - the punch holes aren't wired to anywhere, so there is no point whatsoever"
         ],
         [
-          "courtyards_overlap|88826211|48955000|9b72580a-a271-4ad1-933a-434be70720f7|e073dddc-2d89-4eb0-b5db-891e352782af",
+          "items_not_allowed|38909667|21246798|177e8531-7c50-410a-bd2f-e3cce8433909|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "items_not_allowed|38909667|21666798|177e8531-7c50-410a-bd2f-e3cce8433909|00000000-0000-0000-0000-000000000000",
-          "punch hole for the screen which is wired differently"
-        ],
-        [
-          "items_not_allowed|38909667|52146798|f8db19c7-2ca5-4f44-8057-e459b7f11edc|00000000-0000-0000-0000-000000000000",
-          "punch hole for the screen which is wired differently"
-        ],
-        [
-          "lib_footprint_mismatch|65323750|38000000|aae39a05-d9f7-4abd-a2f2-a925f3d667e8|00000000-0000-0000-0000-000000000000",
+          "items_not_allowed|38909667|51726798|f8db19c7-2ca5-4f44-8057-e459b7f11edc|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_over_copper|36887885|54522377|e87ea3d9-2f05-4cc5-bc64-8504fd8e1c99|00000000-0000-0000-0000-000000000000",
+          "lib_footprint_mismatch|64361250|37580000|aae39a05-d9f7-4abd-a2f2-a925f3d667e8|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_over_copper|39137115|21477623|74bd4a85-2178-4e70-a1a9-1a0ac72a0322|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|75998555|34799960|88b0dbb0-6631-41fb-8f42-41226fd8b89a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|88720232|21515000|cfb9746b-b26b-4c08-9e1d-5517d093f799|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|90065000|47951017|e461a233-fb34-4136-bbca-8e8430e53c2f|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_overlap|34022319|52696115|03d3cd8b-cd08-4cf7-85ee-a9ee11ea66c0|5dd59177-eac2-4557-b7e7-5d4621f44df5",
+          "silk_overlap|34872419|54362782|03d3cd8b-cd08-4cf7-85ee-a9ee11ea66c0|3698fd1e-0aaa-47a9-b43d-8ea07a26efe5",
           ""
         ],
         [
@@ -254,59 +234,39 @@
           ""
         ],
         [
-          "silk_overlap|35798549|21514999|74bd4a85-2178-4e70-a1a9-1a0ac72a0322|88c82f04-2e10-4997-9bbe-d49f3dbbad6c",
+          "silk_overlap|35610214|21514999|74bd4a85-2178-4e70-a1a9-1a0ac72a0322|88c82f04-2e10-4997-9bbe-d49f3dbbad6c",
           ""
         ],
         [
-          "silk_overlap|35798549|54485000|c5a7e016-1695-4c6c-a2e7-5c376bc012da|e87ea3d9-2f05-4cc5-bc64-8504fd8e1c99",
+          "silk_overlap|36094330|54485000|c5a7e016-1695-4c6c-a2e7-5c376bc012da|e87ea3d9-2f05-4cc5-bc64-8504fd8e1c99",
           ""
         ],
         [
-          "silk_overlap|41238095|20220000|5d697716-126d-4cef-b468-8f4584ea3058|a5f34646-dafd-4cf2-8a55-ea2b7dbc7e67",
+          "silk_overlap|38364462|39000000|1aa51739-ca82-4251-a620-e7f33a94c057|912edd3f-c997-42ed-ae1a-f43a3c1edf3e",
           ""
         ],
         [
-          "silk_overlap|55515000|34608390|1c9c4ec9-192d-4ed9-b14f-ef677da74293|4708ed00-a606-4d57-a079-8f76589ed14c",
+          "silk_overlap|38553571|38592089|912edd3f-c997-42ed-ae1a-f43a3c1edf3e|ee9eedf1-6ca9-4bab-947b-e8587d103837",
           ""
         ],
         [
-          "silk_overlap|61738095|20220000|5d697716-126d-4cef-b468-8f4584ea3058|c0424d6b-483b-476e-a102-1a2a299d2b4e",
+          "silk_overlap|38600000|39000000|89006fbe-c020-429e-bd75-ecb71a323232|912edd3f-c997-42ed-ae1a-f43a3c1edf3e",
           ""
         ],
         [
-          "silk_overlap|69707782|20130587|06b077b1-3bba-45bb-881d-70b8b28b51cd|5d697716-126d-4cef-b468-8f4584ea3058",
+          "silk_overlap|78425000|52621485|00811c34-5228-4ac1-afaf-7f3a629d5457|54c95c28-dd07-442a-bf08-dd1b55d99bea",
           ""
         ],
         [
-          "silk_overlap|78460000|55780000|581c0b15-e479-420a-bcc5-4dedee88b91c|f486af90-48d6-432e-8100-cb632ab811fa",
+          "text_height|38000000|39000000|912edd3f-c997-42ed-ae1a-f43a3c1edf3e|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_overlap|78880000|55780000|581c0b15-e479-420a-bcc5-4dedee88b91c|8e6b988b-a7de-4e79-ae76-872acf44d4a8",
+          "text_height|88500000|26000000|9dcd5cd4-e08c-4588-8fc9-9ae814af099a|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_overlap|79060000|55780000|581c0b15-e479-420a-bcc5-4dedee88b91c|e91d3908-953a-4ecd-93bc-110edeb00966",
-          ""
-        ],
-        [
-          "silk_overlap|82238095|20220000|5d697716-126d-4cef-b468-8f4584ea3058|fe62bbff-bdfe-4182-bb1d-2e7e7daed3f4",
-          ""
-        ],
-        [
-          "silk_overlap|89100000|51719819|53b7bc17-8d1d-416a-bc46-a7c95ec762a5|8a5cd635-b12a-474f-848c-88dd3473417e",
-          ""
-        ],
-        [
-          "silk_overlap|93900000|52351510|9dcd5cd4-e08c-4588-8fc9-9ae814af099a|9f3bd6bc-0453-4e25-a33a-85862f4a67f3",
-          ""
-        ],
-        [
-          "text_height|66000000|21000000|06b077b1-3bba-45bb-881d-70b8b28b51cd|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|66000000|21000000|06b077b1-3bba-45bb-881d-70b8b28b51cd|00000000-0000-0000-0000-000000000000",
+          "text_thickness|88500000|26000000|9dcd5cd4-e08c-4588-8fc9-9ae814af099a|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -747,7 +707,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../production/sqrt(pc)-pcb.step",
       "svg": "",
       "vrml": ""
     },

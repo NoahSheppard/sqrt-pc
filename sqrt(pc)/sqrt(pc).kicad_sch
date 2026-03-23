@@ -5103,6 +5103,12 @@
 		(uuid "28305162-8949-4ab0-bbb7-463e01935f72")
 	)
 	(junction
+		(at 54.61 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "296c69af-460c-4e6f-8970-d41001328a15")
+	)
+	(junction
 		(at 100.33 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5119,6 +5125,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "531ad36d-0421-44c1-a747-928b95ae24a7")
+	)
+	(junction
+		(at 39.37 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c3ed91d-ece2-40bd-8ecd-82a86dca4880")
 	)
 	(junction
 		(at 69.85 152.4)
@@ -5139,12 +5151,6 @@
 		(uuid "7271d0a7-617a-4bdd-a69b-6ebe9ebf0458")
 	)
 	(junction
-		(at 54.61 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7974f800-56c3-4e26-8435-f4798c487f81")
-	)
-	(junction
 		(at 265.43 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5154,7 +5160,7 @@
 		(at 54.61 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ac73b77d-1d93-4a9f-b3d5-32c04fe2b097")
+		(uuid "89ce299d-9a7f-40ec-bc9f-0b03b4c3dedb")
 	)
 	(junction
 		(at 86.36 148.59)
@@ -5163,10 +5169,10 @@
 		(uuid "b7bf67be-4188-4c31-8cc2-29cc970d82f9")
 	)
 	(junction
-		(at 39.37 177.8)
+		(at 39.37 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c10df980-5fe0-4915-b822-b1ddf6fb89fd")
+		(uuid "beb63bdb-62e6-4cb3-9d93-fa5f3851918e")
 	)
 	(junction
 		(at 193.04 125.73)
@@ -5185,12 +5191,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7687283-c6f8-4389-95b2-309b5eecbea4")
-	)
-	(junction
-		(at 39.37 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fd60ec79-0bfa-4d14-8cb8-fef341efaf96")
 	)
 	(junction
 		(at 86.36 133.35)
@@ -5300,13 +5300,23 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 177.8) (xy 39.37 173.99)
+			(xy 39.37 173.99) (xy 39.37 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "359ebc9c-6ae1-4080-bc0f-8fd8b5ae9fbe")
+		(uuid "31f25d1e-7a7e-4858-b584-a602e75fc89e")
+	)
+	(wire
+		(pts
+			(xy 54.61 173.99) (xy 54.61 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "351097e8-4297-4b63-8675-00a4949d7dae")
 	)
 	(wire
 		(pts
@@ -5317,6 +5327,16 @@
 			(type default)
 		)
 		(uuid "37fd4da8-3fc9-4c0f-bfb1-784b89bb7a35")
+	)
+	(wire
+		(pts
+			(xy 39.37 152.4) (xy 39.37 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49a8ea81-bfca-4027-87b9-41d9d779ec16")
 	)
 	(wire
 		(pts
@@ -5337,6 +5357,16 @@
 			(type default)
 		)
 		(uuid "510be0d0-a356-453f-a424-19015409ea9b")
+	)
+	(wire
+		(pts
+			(xy 54.61 152.4) (xy 54.61 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56940142-03c8-4cea-9aa7-28a6241a5db6")
 	)
 	(wire
 		(pts
@@ -5420,26 +5450,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 177.8) (xy 39.37 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "778e3d3d-3f7c-4f96-8b63-535f7274ee94")
-	)
-	(wire
-		(pts
-			(xy 54.61 152.4) (xy 54.61 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b10253c-cc0c-4cea-b7d0-b13a7a7d7f47")
-	)
-	(wire
-		(pts
 			(xy 193.04 123.19) (xy 193.04 125.73)
 		)
 		(stroke
@@ -5467,16 +5477,6 @@
 			(type default)
 		)
 		(uuid "80acc471-a5c6-416a-8719-b927f3fadd3a")
-	)
-	(wire
-		(pts
-			(xy 54.61 177.8) (xy 54.61 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80fb8d44-afb9-41d3-8b79-88865a485e0e")
 	)
 	(wire
 		(pts
@@ -5510,16 +5510,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 177.8) (xy 69.85 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92403a79-e862-4d1f-a88b-765d72af4291")
-	)
-	(wire
-		(pts
 			(xy 265.43 125.73) (xy 264.16 125.73)
 		)
 		(stroke
@@ -5550,23 +5540,13 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 152.4) (xy 69.85 152.4)
+			(xy 39.37 177.8) (xy 54.61 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a38d7dcf-6ee1-49c1-ac01-7e9b6bbcfdb0")
-	)
-	(wire
-		(pts
-			(xy 39.37 152.4) (xy 39.37 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a96ebff1-16b0-4ca9-b3e3-bc1247f461f5")
+		(uuid "a9273477-f0f3-4db0-bac9-0f259f8e2c15")
 	)
 	(wire
 		(pts
@@ -5590,7 +5570,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 152.4) (xy 54.61 152.4)
+			(xy 36.83 152.4) (xy 39.37 152.4)
 		)
 		(stroke
 			(width 0)
@@ -5640,6 +5620,26 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 152.4) (xy 69.85 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9b6dda7-3a40-4e45-a4dd-c61838f9c493")
+	)
+	(wire
+		(pts
+			(xy 54.61 177.8) (xy 69.85 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cad9c13f-a627-4487-b7ef-0ad00fdd32e8")
+	)
+	(wire
+		(pts
 			(xy 115.57 152.4) (xy 115.57 158.75)
 		)
 		(stroke
@@ -5650,7 +5650,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 177.8) (xy 54.61 177.8)
+			(xy 36.83 177.8) (xy 39.37 177.8)
 		)
 		(stroke
 			(width 0)
@@ -5710,6 +5710,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 152.4) (xy 54.61 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee565b00-f39f-40e8-8438-96521fc286db")
+	)
+	(wire
+		(pts
 			(xy 69.85 177.8) (xy 69.85 173.99)
 		)
 		(stroke
@@ -5737,16 +5747,6 @@
 			(type default)
 		)
 		(uuid "f94bdeb4-a87c-487d-ba39-0ea846dce48f")
-	)
-	(wire
-		(pts
-			(xy 36.83 152.4) (xy 39.37 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd9d57aa-f0c0-46db-9f2e-f2e58e80b0f4")
 	)
 	(global_label "BAT_ADC"
 		(shape input)
@@ -5986,28 +5986,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED_DIN"
-		(shape input)
-		(at 31.75 166.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "44db74bc-b9bd-4e57-9f63-f2713c5106d0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.1448 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -6496,6 +6474,28 @@
 			)
 		)
 	)
+	(global_label "LED_DIN"
+		(shape input)
+		(at 31.75 166.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d6360a42-9660-4fe1-8705-e2cae0faa355")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.1448 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "3V3"
 		(shape input)
 		(at 132.08 67.31 180)
@@ -6630,7 +6630,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_SK6812MINI")
-		(at 39.37 166.37 0)
+		(at 54.61 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6638,7 +6638,7 @@
 		(dnp no)
 		(uuid "00b7eaec-016d-4863-9ac4-87f68c0dd32e")
 		(property "Reference" "D10"
-			(at 25.146 149.352 90)
+			(at 40.386 149.352 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6647,7 +6647,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI"
-			(at 47.244 167.64 90)
+			(at 58.42 156.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6655,7 +6655,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_SK6812MINI"
-			(at 40.64 173.99 0)
+			(at 55.88 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6665,7 +6665,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 40.64 177.546 0)
+			(at 55.88 177.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6675,7 +6675,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 57.658 176.53 0)
+			(at 72.898 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6684,7 +6684,16 @@
 			)
 		)
 		(property "LCSC" "C5149201"
-			(at 30.226 149.352 90)
+			(at 45.466 149.352 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 54.61 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6771,6 +6780,15 @@
 		)
 		(property "LCSC" "C5149201"
 			(at 109.093 174.371 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 115.57 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6984,6 +7002,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 213.36 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "92dad6ed-698f-432f-8d42-dca6da093fd3")
 		)
@@ -7044,6 +7071,15 @@
 			)
 		)
 		(property "Description" "RGB LED, anode/red/blue/green"
+			(at 212.09 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
 			(at 212.09 85.09 0)
 			(effects
 				(font
@@ -7248,6 +7284,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 119.38 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2db2b120-41ef-4013-ba41-77dd5601f64e")
 		)
@@ -7378,6 +7423,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
 			(at 83.82 125.73 0)
 			(effects
 				(font
@@ -7641,6 +7695,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 205.74 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "229341cc-62b1-4584-bb91-b1c911d18321")
 		)
@@ -7724,6 +7787,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 69.85 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac57d97d-a400-42d7-9b99-bb9cd5f590ea")
 		)
@@ -7786,6 +7858,15 @@
 		)
 		(property "Description" "1A Standalone Linear Li-ion/LiPo single-cell battery charger, 4.2V ±1% charge voltage, VCC = 4.0..8.0V, SOIC-8 (SOP-8)"
 			(at 234.188 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 233.68 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8047,6 +8128,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 254 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -8340,6 +8430,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 55.88 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9eaffa68-8c35-4d7d-863d-98e2d8919dad")
 		)
@@ -8413,6 +8512,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 72.39 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7091a185-bbd6-4bb0-bef8-94abd3de033f")
 		)
@@ -8475,6 +8583,15 @@
 		)
 		(property "Description" "32-bit microcontroller module with WiFi"
 			(at 71.882 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 71.12 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8664,6 +8781,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 58.42 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b5d9fe0-ce15-48f2-8df9-7878f60c649a")
 		)
@@ -8804,6 +8930,15 @@
 		)
 		(property "LCSC" "C5149201"
 			(at 78.613 174.371 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 85.09 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9028,6 +9163,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 130.81 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c5b7a53-73d0-4c34-a611-f138ffef0d10")
 		)
@@ -9226,6 +9370,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 149.86 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "d1154f0f-9d64-47b7-b524-7a28544edf68")
 		)
@@ -9295,7 +9448,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal"
 			(at 265.43 60.96 0)
 			(effects
 				(font
@@ -9314,6 +9467,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 265.43 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
 			(at 265.43 60.96 0)
 			(effects
 				(font
@@ -9388,6 +9550,15 @@
 		)
 		(property "Description" ""
 			(at 62.23 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 58.42 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9720,6 +9891,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 176.53 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "341c6760-4004-46ce-991d-2992d6ec0cd9")
 		)
@@ -9859,6 +10039,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 69.85 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7a2b0a7a-129d-46f1-82e1-0f332bcc1130")
 		)
@@ -9939,6 +10128,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 69.85 166.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "63271f07-166e-4bf7-96f0-5822112a50e1")
 		)
@@ -10009,6 +10207,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 243.84 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
 			(at 243.84 72.39 0)
 			(effects
 				(font
@@ -10224,6 +10431,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 86.36 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "24746020-e236-4db8-a2a7-ae60b3e1147a")
 		)
@@ -10362,6 +10578,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 55.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "64bc12cf-d931-467d-a79b-cda36ad6fc82")
 		)
@@ -10428,6 +10653,15 @@
 		)
 		(property "Description" ""
 			(at 90.17 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 86.36 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10508,6 +10742,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9ef2cc3-271d-4b0e-9177-6a32c1ca467d")
 		)
@@ -10525,7 +10768,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_SK6812MINI")
-		(at 54.61 166.37 0)
+		(at 39.37 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10533,7 +10776,7 @@
 		(dnp no)
 		(uuid "d39632ef-dcdc-4106-ae87-bdb2a7e27fd5")
 		(property "Reference" "D9"
-			(at 43.053 174.371 90)
+			(at 27.813 174.371 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10542,7 +10785,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI"
-			(at 45.593 174.371 90)
+			(at 30.353 174.371 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10551,7 +10794,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_SK6812MINI"
-			(at 55.88 173.99 0)
+			(at 40.64 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10561,7 +10804,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 55.88 177.546 0)
+			(at 40.64 177.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10571,7 +10814,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 72.898 176.53 0)
+			(at 57.658 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10580,7 +10823,16 @@
 			)
 		)
 		(property "LCSC" "C5149201"
-			(at 48.133 174.371 90)
+			(at 32.893 174.371 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 39.37 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10734,6 +10986,15 @@
 		)
 		(property "LCSC" "C5149201"
 			(at 93.853 174.371 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 100.33 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10946,6 +11207,15 @@
 				(hide yes)
 			)
 		)
+		(property "Already Owned" ""
+			(at 213.36 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c452798-c95a-4a34-a524-c4bf98f244e7")
 		)
@@ -11011,6 +11281,15 @@
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
 			(at 193.04 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
+			(at 193.04 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11151,6 +11430,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Already Owned" ""
 			(at 83.82 140.97 0)
 			(effects
 				(font
