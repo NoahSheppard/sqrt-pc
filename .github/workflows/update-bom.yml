@@ -1,0 +1,29 @@
+name: Update BOM Table
+
+on:
+  push:
+    paths:
+      - 'BOM.csv'       # Only runs when BOM.csv actually changes
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Needed to push the commit back
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Convert CSV to Markdown and inject into README
+        run: node .github/scripts/csv_to_md.js
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" || (git add README.md && git commit -m "chore: update BOM table from CSV" && git push)
